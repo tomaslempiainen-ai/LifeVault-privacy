@@ -93,3 +93,29 @@ LifeVault ei ole tarkoitettu alle 13-vuotiaille.
 ### 10. Yhteystiedot
 Tietosuojaan liittyvissä kysymyksissä:
 **Sähköposti:** tomas.lempiainen@gmail.com
+
+## 🇫🇮 Tilin ja tietojen poistaminen
+
+LifeVault-sovelluksen käyttäjä voi pyytää tilinsä ja siihen liittyvien tietojen poistamista ottamalla yhteyttä sähköpostitse:
+
+📧 **lifevault.app.info@gmail.com**
+
+Pyynnön tulee sisältää:
+- Sovelluksessa käytetty sähköpostiosoite
+- Maininta: *“LifeVault – tilin poisto”*
+
+Tiedot poistetaan kohtuullisessa ajassa, viimeistään 30 päivän kuluessa.
+
+---
+
+## 🇬🇧 Account and Data Deletion
+
+Users of the LifeVault application may request deletion of their account and associated data by contacting us via email:
+
+📧 **lifevault.app.info@gmail.com**
+
+Please include:
+- The email address used in the app
+- Subject: *“LifeVault – Account deletion”*
+
+All data will be deleted within a reasonable time frame, no later than 30 days.
